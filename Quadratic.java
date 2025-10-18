@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Quadratic {
+public class LabProgram1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double a,b,c,r1,r2,d;
@@ -38,3 +38,4 @@ public class Quadratic {
         }
     }
 }
+
